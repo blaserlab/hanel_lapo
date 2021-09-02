@@ -3,6 +3,9 @@
 # renv::init()
 # renv::snapshot()
 
+# restore R package environment from lockfile
+# renv::restore()
+
 # blaseRtools and additional dependencies you may have to install since they are not recognized by renv::init
 # renv::install("/usr/lib/R/site-library/blaseRtools")
 # renv::install("/usr/lib/R/site-library/DESeq2")
