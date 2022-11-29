@@ -46,7 +46,7 @@ library("rstatix")
 library("skimr")
 
 # uncomment and use the following to install or update the data package---------------------------------------
-blaseRtools::bb_renv_datapkg(path = "~/network/X/Labs/Blaser/collaborators/hanel_lapo_mcl/datapkg")
+# blaseRtools::bb_renv_datapkg(path = "~/network/X/Labs/Blaser/collaborators/hanel_lapo_mcl/datapkg")
 
 
 # use this to load the data package-------------------------------------
